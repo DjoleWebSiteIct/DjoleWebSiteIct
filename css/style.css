@@ -34,12 +34,8 @@ header{
     height: 35px;
 }
 
-.location{
-    margin: auto;
-    left: 20%;
-    color: azure;
-    font-size: 50px;
-    position: absolute;   
+.activetab{
+    font-weight:900;    
 }
 
 nav li{
