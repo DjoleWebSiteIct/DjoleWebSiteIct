@@ -515,9 +515,13 @@ form{
 }
 
 .gallerybox{
-    border-top: 4px solid rgb(230, 182, 50);
     text-align: center;
 }
+
+.galleryboxbottom{
+    border-top: 4px solid rgb(230, 182, 50);
+}
+
 .gallerybox p{
     font-weight: 900;
     font-size: 25px;
